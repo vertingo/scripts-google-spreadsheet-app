@@ -5,6 +5,8 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/vertingo/scripts-google-spreadsheet-app.svg?style=social&label=Watch)](https://github.com/vertingo/scripts-google-spreadsheet-app) 
 [![GitHub followers](https://img.shields.io/github/followers/vertingo.svg?style=social&label=Follow)](https://github.com/vertingo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vertin_Go.svg?style=social)](https://twitter.com/Vertin_Go)
+[![Download](https://img.shields.io/badge/Download-Repo-brightgreen)](https://github.com/vertingo/scripts-google-spreadsheet-app/archive/refs/heads/main.zip)
+
 
 # Apps Script Code Snippets
 
