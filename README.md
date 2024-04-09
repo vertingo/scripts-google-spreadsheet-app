@@ -7,6 +7,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vertin_Go.svg?style=social)](https://twitter.com/Vertin_Go)
 [![Download](https://img.shields.io/badge/Download-Repo-brightgreen)](https://github.com/vertingo/scripts-google-spreadsheet-app/archive/refs/heads/main.zip)
 
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/vertingo/scripts-google-spreadsheet-app/archive/1.0.2.zip)
+<!-- END LATEST DOWNLOAD BUTTON -->
+
 
 # Apps Script Code Snippets
 
