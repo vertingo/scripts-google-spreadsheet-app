@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/vertingo/Easy_Admin_YouTube_Newsletter_Firebase/master/web/assets/images/github/vertin_go_website.jpg)
+![Image](https://raw.githubusercontent.com/vertingo/multienv-stack-docker/main/docs/assets/banner.png)
 ### Apporter votre soutien au projet :heart: pour de futures évolutions!
 [![GitHub stars](https://img.shields.io/github/stars/vertingo/scripts-google-spreadsheet-app.svg?style=social&label=Star)](https://github.com/vertingo/scripts-google-spreadsheet-app) 
 [![GitHub forks](https://img.shields.io/github/forks/vertingo/scripts-google-spreadsheet-app.svg?style=social&label=Fork)](https://github.com/vertingo/scripts-google-spreadsheet-app/fork) 
